@@ -20,3 +20,10 @@
 
 # Data Cleaning
 ### Shape of dataset (16777216, 21)
+### Filtering around 60% data based on one column in order to keep some information complete.
+![](https://github.com/JesseyZ/Machine-Learning---retention-analysis/blob/main/images/missingvalues.jpg)
+
+# EDA and feature engineering
+> *** please check code in notebook.
+
+# Machine Learning
