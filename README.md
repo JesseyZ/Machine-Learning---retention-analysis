@@ -15,4 +15,8 @@
   - FSA information and buying capacity index
 
 ## Modeling Approach
+> ***1.5 year rule: The average life circle of updating a specific product
+![](https://github.com/JesseyZ/Machine-Learning---retention-analysis/blob/main/images/approach.jpg)
 
+# Data Cleaning
+### Shape of dataset (16777216, 21)
