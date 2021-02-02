@@ -1,7 +1,7 @@
 # Introduction
 #### Predicting customers who are going to churn based on Registered product(customer level) table , Data_camp table and FSA  (considering buying capacity of each area) information to achieve customer retention for hand_held products.
 
-# Data Understanding - Types of data (below are not all information)
+## Data Understanding - Types of data (below are not all information)
 ### Registered product table: Basic information for customers
   - Email IDs, birth dates
   - Registration dates
