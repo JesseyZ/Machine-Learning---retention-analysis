@@ -1,6 +1,18 @@
-# Machine-Learning---retention-analysis
-#### The objective of the project is to predict the customer churn by using multiple data sources.
+# Introduction
+#### Predicting customers who are going to churn based on Registered product(customer level) table , Data_camp table and FSA  (considering buying capacity of each area) information to achieve customer retention for hand_held products.
 
-#### The approach to build models is to utilize years of data properly, which is to separate datasets into training and testing set and model running set.
+# Data Understanding - Types of data (below are not all information)
+### Registered product table: Basic information for customers
+  - Email IDs, birth dates
+  - Registration dates
+  - Location information
+### Data Campaign table: Customers behavior for promotion emails
+  - Open and Clicks times of emails and links inside
+  - Open and Click dates
+  - Subscribe status
 
-#### Built and select best model to run it on model running set to predict customer churn in the future.
+### FSA-buying capacity table: information from demographic tables
+  - FSA information and buying capacity index
+
+## Modeling Approach
+
